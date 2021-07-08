@@ -1,1 +1,1 @@
-CRUD node Api with Sequelize, Postgres and Docker
+docker-compose up -d --build ui-service
